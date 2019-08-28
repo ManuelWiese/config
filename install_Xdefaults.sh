@@ -1,0 +1,2 @@
+cp .Xdefaults ~/
+xrdb ~/.Xdefaults
